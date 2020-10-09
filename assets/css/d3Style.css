@@ -29,11 +29,13 @@
   font-family: sans-serif;
   fill: #fff;
   text-anchor: middle;
+  font-size: 11px;
 }
 
 .stateCircle {
   fill: #89bdd3;
   stroke: #e3e3e3;
+
 }
 
 .chart {
